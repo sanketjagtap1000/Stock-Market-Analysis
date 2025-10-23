@@ -20,21 +20,23 @@ Tools used in the project:
 Key Observations:
 1. Average daily trading volume: Investor should look for upward trend indicated by High trading volume, High upward trends for all 5 stocks combined are seen in alternate years or two, judging from the graph of last ten years.(2010 – 53.6 million, 2011 – 52.4 Million 2012 – 55.2 million…… )
    
-2.Most Volatile stocks: Looking at the graphs and its values, Most volatility is seen in Microsoft and the least volatile is Amazon for given period. Stocks with high beta values posses high risk but also provide high rewards. Investors keen to bag high capital gains or day traders can buy high beta stocks. Stocks with low volatility are less risky but give low returns. Conservative investors or long term investors can buy them.
+2. Most Volatile stocks: Looking at the graphs and its values, Most volatility is seen in Microsoft and the least volatile is Amazon for given period. Stocks with high beta values posses high risk but also provide high rewards. Investors keen to bag high capital gains or day traders can buy high beta stocks. Stocks with low volatility are less risky but give low returns. Conservative investors or long term investors can buy them.
 
-3.Stocks with highest and lowest dividends: Microsoft has given highest dividend($3011) in the given period and Google has given the lowest dividend($2952). Investing in company with high dividend means it forms another source of income, company has quality business, predictable earning etc. Investing in low dividend companies means company has invested money in its expansion and growth, may provide high upside potential. Whether and how much to focus on dividend-paying stocks depends on your investment horizon, comfortability with risk, and other financial needs.
+3. Stocks with highest and lowest dividends: Microsoft has given highest dividend($3011) in the given period and Google has given the lowest dividend($2952). Investing in company with high dividend means it forms another source of income, company has quality business, predictable earning etc. Investing in low dividend companies means company has invested money in its expansion and growth, may provide high upside potential. Whether and how much to focus on dividend-paying stocks depends on your investment horizon, comfortability with risk, and other financial needs.
 
-4.Highest and Lowest price to earning ratio: Average PE ratio for Apple($63.61) and Amazon($63.27) are high compared to its tech-based industry peers. This means investors have confidence in them and are ready to pay premium on them. Average PE ratio Facebook($62.38) and  Microsoft($63.44) Low compared to other stocks. These stocks are less expensive but it does not indicate high returns in later period.
+4. Highest and Lowest price to earning ratio: Average PE ratio for Apple($63.61) and Amazon($63.27) are high compared to its tech-based industry peers. This means investors have confidence in them and are ready to pay premium on them. Average PE ratio Facebook($62.38) and  Microsoft($63.44) Low compared to other stocks. These stocks are less expensive but it does not indicate high returns in later period.
 
-5.Stocks with highest market cap: All the given companies are large cap companies (>$10 billion), furthermore they are categorised as ultra-cap companies(>50 billion). These companies are mature and stable companies who have grown over time. The sum of given data on market cap helps us understand that among 5 companies, Microsoft is the most reliable one with market cap of $44.32 trillion. Other companies such as Facebook are volatile but have great growth potential.
+5. Stocks with highest market cap: All the given companies are large cap companies (>$10 billion), furthermore they are categorised as ultra-cap companies(>50 billion). These companies are mature and stable companies who have grown over time. The sum of given data on market cap helps us understand that among 5 companies, Microsoft is the most reliable one with market cap of $44.32 trillion. Other companies such as Facebook are volatile but have great growth potential.
 
-6.52 Week high and low: For each company, We have found approximate value for resistance level and support level for the given period.
+6. 52 Week high and low: For each company, We have found approximate value for resistance level and support level for the given period.
 Apple went up to $1522 in 2022 at maximum and its average 52 week high was $1512 for that year.  For some years the difference is high. Such data helps us understand exit point for investors. Similarly, For the year 2017, Apple saw minimum touchpoint of $89 whereas its average 52 week low was $104. This gives us important entry points for the stock.
 
 Conclusion:
 Stock market analysis project helped investors in analysing stock for major companies on stock market. It is projected that such analysis helped investors in reducing losses by upto 30% and increasing profitability by ~40%.
 
 Dashboard Screenshot:
+<img width="758" height="458" alt="image" src="https://github.com/user-attachments/assets/3ee8e2bf-6b4a-48d5-9c6c-eeef7f4e9c63" />
+
 
 
 
