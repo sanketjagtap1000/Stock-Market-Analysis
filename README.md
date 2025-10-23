@@ -35,6 +35,7 @@ Conclusion:
 Stock market analysis project helped investors in analysing stock for major companies on stock market. It is projected that such analysis helped investors in reducing losses by upto 30% and increasing profitability by ~40%.
 
 Dashboard Screenshot:
+
 <img width="758" height="458" alt="image" src="https://github.com/user-attachments/assets/3ee8e2bf-6b4a-48d5-9c6c-eeef7f4e9c63" />
 
 
