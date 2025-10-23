@@ -34,6 +34,9 @@ Apple went up to $1522 in 2022 at maximum and its average 52 week high was $1512
 Conclusion:
 Stock market analysis project helped investors in analysing stock for major companies on stock market. It is projected that such analysis helped investors in reducing losses by upto 30% and increasing profitability by ~40%.
 
+Dashboard Screenshot:
+
+
 
 
 
